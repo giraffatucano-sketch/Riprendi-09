@@ -1,0 +1,3 @@
+Riprendi Superficie 10 - versione di prova locale.
+Caricare index.html e logo-originale.png nella radice del repository GitHub Pages.
+Conserva una copia della versione 08. I dati sono salvati solo nel browser, non condivisi tra dispositivi.
